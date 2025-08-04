@@ -6,7 +6,7 @@ from telebot import types
 from calibration import calibration
 from find_park import get_bboxes, get_available_parkings
 
-bot = telebot.TeleBot('8127528682:AAETyn2LY0VErP8iU3sp4WjB0zbTcg8F13s')
+bot = telebot.TeleBot('#TELEGRAM_API_TOKEN#')
 
 def do_calibration():
     try:
@@ -27,7 +27,7 @@ def get_parkings():
 
 @bot.message_handler(commands=['site', 'website'])
 def site(message):
-    webbrowser.open('https://cars.tsn-bh.ru/user/ae54f1b3/')
+    webbrowser.open('https://cars.###############.ru/user/########/')
 
 
 @bot.message_handler(commands=['start'])
@@ -72,4 +72,5 @@ def on_click(message):
 
 
 bot.polling(none_stop=True)
+
 # bot.infinity_polling()
