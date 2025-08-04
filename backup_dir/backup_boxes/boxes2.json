@@ -1,0 +1,4680 @@
+[
+ {
+  "filename": "img\\snap_1001.jpg",
+  "boxes": []
+ },
+ {
+  "filename": "img\\snap_101.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9055,
+    "start_point": [
+     336,
+     415
+    ],
+    "end_point": [
+     555,
+     537
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8938,
+    "start_point": [
+     706,
+     653
+    ],
+    "end_point": [
+     1242,
+     952
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8788,
+    "start_point": [
+     397,
+     571
+    ],
+    "end_point": [
+     711,
+     877
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8719,
+    "start_point": [
+     837,
+     400
+    ],
+    "end_point": [
+     1221,
+     544
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8615,
+    "start_point": [
+     231,
+     601
+    ],
+    "end_point": [
+     497,
+     843
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8556,
+    "start_point": [
+     425,
+     348
+    ],
+    "end_point": [
+     663,
+     464
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8438,
+    "start_point": [
+     878,
+     322
+    ],
+    "end_point": [
+     1201,
+     446
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8384,
+    "start_point": [
+     706,
+     479
+    ],
+    "end_point": [
+     1208,
+     725
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8128,
+    "start_point": [
+     130,
+     458
+    ],
+    "end_point": [
+     289,
+     565
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8128,
+    "start_point": [
+     122,
+     601
+    ],
+    "end_point": [
+     334,
+     814
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6341,
+    "start_point": [
+     540,
+     284
+    ],
+    "end_point": [
+     720,
+     357
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6157,
+    "start_point": [
+     0,
+     592
+    ],
+    "end_point": [
+     171,
+     754
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6114,
+    "start_point": [
+     54,
+     636
+    ],
+    "end_point": [
+     182,
+     776
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5795,
+    "start_point": [
+     921,
+     274
+    ],
+    "end_point": [
+     1186,
+     364
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.567,
+    "start_point": [
+     968,
+     219
+    ],
+    "end_point": [
+     1173,
+     293
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4593,
+    "start_point": [
+     447,
+     316
+    ],
+    "end_point": [
+     673,
+     385
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4395,
+    "start_point": [
+     302,
+     365
+    ],
+    "end_point": [
+     440,
+     485
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3397,
+    "start_point": [
+     966,
+     238
+    ],
+    "end_point": [
+     1171,
+     288
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3229,
+    "start_point": [
+     1016,
+     179
+    ],
+    "end_point": [
+     1169,
+     225
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3118,
+    "start_point": [
+     974,
+     220
+    ],
+    "end_point": [
+     1167,
+     272
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2913,
+    "start_point": [
+     271,
+     302
+    ],
+    "end_point": [
+     369,
+     360
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2771,
+    "start_point": [
+     908,
+     292
+    ],
+    "end_point": [
+     1184,
+     380
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2698,
+    "start_point": [
+     1002,
+     210
+    ],
+    "end_point": [
+     1170,
+     259
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2672,
+    "start_point": [
+     941,
+     259
+    ],
+    "end_point": [
+     1175,
+     334
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_301.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.928,
+    "start_point": [
+     615,
+     770
+    ],
+    "end_point": [
+     775,
+     998
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8821,
+    "start_point": [
+     1133,
+     245
+    ],
+    "end_point": [
+     1261,
+     363
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8641,
+    "start_point": [
+     287,
+     681
+    ],
+    "end_point": [
+     481,
+     861
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8482,
+    "start_point": [
+     1348,
+     715
+    ],
+    "end_point": [
+     1471,
+     967
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8461,
+    "start_point": [
+     1032,
+     487
+    ],
+    "end_point": [
+     1282,
+     625
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8208,
+    "start_point": [
+     1092,
+     360
+    ],
+    "end_point": [
+     1292,
+     441
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8082,
+    "start_point": [
+     1431,
+     485
+    ],
+    "end_point": [
+     1607,
+     576
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7699,
+    "start_point": [
+     1429,
+     562
+    ],
+    "end_point": [
+     1630,
+     674
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7512,
+    "start_point": [
+     1068,
+     612
+    ],
+    "end_point": [
+     1310,
+     740
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7209,
+    "start_point": [
+     1397,
+     338
+    ],
+    "end_point": [
+     1561,
+     422
+    ]
+   },
+   {
+    "cls_item": 7,
+    "cls_name": "truck",
+    "proba": 0.6696,
+    "start_point": [
+     788,
+     0
+    ],
+    "end_point": [
+     910,
+     136
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6608,
+    "start_point": [
+     1415,
+     413
+    ],
+    "end_point": [
+     1588,
+     496
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6318,
+    "start_point": [
+     1482,
+     740
+    ],
+    "end_point": [
+     1686,
+     975
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6161,
+    "start_point": [
+     1039,
+     866
+    ],
+    "end_point": [
+     1314,
+     979
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6068,
+    "start_point": [
+     1058,
+     420
+    ],
+    "end_point": [
+     1279,
+     527
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5663,
+    "start_point": [
+     869,
+     766
+    ],
+    "end_point": [
+     1008,
+     999
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5607,
+    "start_point": [
+     1447,
+     638
+    ],
+    "end_point": [
+     1655,
+     778
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4376,
+    "start_point": [
+     1380,
+     283
+    ],
+    "end_point": [
+     1539,
+     352
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4268,
+    "start_point": [
+     1354,
+     180
+    ],
+    "end_point": [
+     1496,
+     247
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3903,
+    "start_point": [
+     1021,
+     729
+    ],
+    "end_point": [
+     1293,
+     851
+    ]
+   },
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.3642,
+    "start_point": [
+     769,
+     605
+    ],
+    "end_point": [
+     829,
+     685
+    ]
+   },
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.3511,
+    "start_point": [
+     794,
+     608
+    ],
+    "end_point": [
+     828,
+     685
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2831,
+    "start_point": [
+     685,
+     0
+    ],
+    "end_point": [
+     757,
+     25
+    ]
+   },
+   {
+    "cls_item": 25,
+    "cls_name": "umbrella",
+    "proba": 0.2638,
+    "start_point": [
+     88,
+     377
+    ],
+    "end_point": [
+     306,
+     647
+    ]
+   },
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.2614,
+    "start_point": [
+     124,
+     302
+    ],
+    "end_point": [
+     152,
+     355
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_3701.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9242,
+    "start_point": [
+     373,
+     450
+    ],
+    "end_point": [
+     673,
+     827
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.919,
+    "start_point": [
+     12,
+     487
+    ],
+    "end_point": [
+     339,
+     714
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8987,
+    "start_point": [
+     825,
+     361
+    ],
+    "end_point": [
+     1332,
+     595
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8686,
+    "start_point": [
+     296,
+     145
+    ],
+    "end_point": [
+     505,
+     260
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8566,
+    "start_point": [
+     528,
+     116
+    ],
+    "end_point": [
+     770,
+     231
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8484,
+    "start_point": [
+     105,
+     352
+    ],
+    "end_point": [
+     408,
+     542
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8431,
+    "start_point": [
+     838,
+     293
+    ],
+    "end_point": [
+     1251,
+     429
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8223,
+    "start_point": [
+     838,
+     553
+    ],
+    "end_point": [
+     1428,
+     821
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7843,
+    "start_point": [
+     262,
+     231
+    ],
+    "end_point": [
+     522,
+     330
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6798,
+    "start_point": [
+     852,
+     127
+    ],
+    "end_point": [
+     1081,
+     232
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6721,
+    "start_point": [
+     820,
+     211
+    ],
+    "end_point": [
+     1197,
+     346
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6617,
+    "start_point": [
+     236,
+     299
+    ],
+    "end_point": [
+     479,
+     430
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6558,
+    "start_point": [
+     0,
+     352
+    ],
+    "end_point": [
+     184,
+     548
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6147,
+    "start_point": [
+     163,
+     176
+    ],
+    "end_point": [
+     306,
+     283
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6086,
+    "start_point": [
+     903,
+     148
+    ],
+    "end_point": [
+     1211,
+     258
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4241,
+    "start_point": [
+     0,
+     683
+    ],
+    "end_point": [
+     251,
+     982
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_3801.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9412,
+    "start_point": [
+     1260,
+     509
+    ],
+    "end_point": [
+     1750,
+     831
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9189,
+    "start_point": [
+     181,
+     537
+    ],
+    "end_point": [
+     373,
+     656
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9156,
+    "start_point": [
+     1256,
+     417
+    ],
+    "end_point": [
+     1663,
+     645
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9054,
+    "start_point": [
+     419,
+     480
+    ],
+    "end_point": [
+     740,
+     670
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8877,
+    "start_point": [
+     127,
+     695
+    ],
+    "end_point": [
+     530,
+     923
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8526,
+    "start_point": [
+     1185,
+     350
+    ],
+    "end_point": [
+     1534,
+     542
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8201,
+    "start_point": [
+     271,
+     475
+    ],
+    "end_point": [
+     441,
+     573
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.816,
+    "start_point": [
+     1169,
+     302
+    ],
+    "end_point": [
+     1470,
+     445
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7855,
+    "start_point": [
+     0,
+     609
+    ],
+    "end_point": [
+     85,
+     696
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7033,
+    "start_point": [
+     1159,
+     253
+    ],
+    "end_point": [
+     1434,
+     384
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.663,
+    "start_point": [
+     511,
+     410
+    ],
+    "end_point": [
+     810,
+     545
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6304,
+    "start_point": [
+     35,
+     684
+    ],
+    "end_point": [
+     219,
+     854
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6292,
+    "start_point": [
+     1145,
+     231
+    ],
+    "end_point": [
+     1368,
+     339
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6058,
+    "start_point": [
+     54,
+     557
+    ],
+    "end_point": [
+     163,
+     644
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5794,
+    "start_point": [
+     1667,
+     692
+    ],
+    "end_point": [
+     1919,
+     1071
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5246,
+    "start_point": [
+     620,
+     374
+    ],
+    "end_point": [
+     865,
+     469
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5184,
+    "start_point": [
+     1126,
+     203
+    ],
+    "end_point": [
+     1321,
+     281
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.45,
+    "start_point": [
+     111,
+     519
+    ],
+    "end_point": [
+     211,
+     593
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3924,
+    "start_point": [
+     1123,
+     192
+    ],
+    "end_point": [
+     1313,
+     267
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3756,
+    "start_point": [
+     761,
+     248
+    ],
+    "end_point": [
+     938,
+     316
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3746,
+    "start_point": [
+     650,
+     312
+    ],
+    "end_point": [
+     879,
+     401
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3629,
+    "start_point": [
+     617,
+     330
+    ],
+    "end_point": [
+     878,
+     410
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3564,
+    "start_point": [
+     1132,
+     218
+    ],
+    "end_point": [
+     1328,
+     290
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3223,
+    "start_point": [
+     157,
+     477
+    ],
+    "end_point": [
+     270,
+     546
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3173,
+    "start_point": [
+     708,
+     276
+    ],
+    "end_point": [
+     912,
+     356
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3089,
+    "start_point": [
+     683,
+     304
+    ],
+    "end_point": [
+     885,
+     382
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2682,
+    "start_point": [
+     613,
+     338
+    ],
+    "end_point": [
+     868,
+     432
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2565,
+    "start_point": [
+     1149,
+     246
+    ],
+    "end_point": [
+     1432,
+     352
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_3901.jpg",
+  "boxes": [
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.9142,
+    "start_point": [
+     787,
+     660
+    ],
+    "end_point": [
+     993,
+     885
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.8748,
+    "start_point": [
+     784,
+     307
+    ],
+    "end_point": [
+     880,
+     487
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.8747,
+    "start_point": [
+     659,
+     716
+    ],
+    "end_point": [
+     851,
+     941
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8285,
+    "start_point": [
+     1422,
+     651
+    ],
+    "end_point": [
+     1614,
+     865
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8204,
+    "start_point": [
+     1597,
+     829
+    ],
+    "end_point": [
+     1750,
+     1012
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.8125,
+    "start_point": [
+     667,
+     320
+    ],
+    "end_point": [
+     759,
+     493
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.81,
+    "start_point": [
+     896,
+     307
+    ],
+    "end_point": [
+     996,
+     493
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.7787,
+    "start_point": [
+     466,
+     341
+    ],
+    "end_point": [
+     557,
+     509
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.7414,
+    "start_point": [
+     558,
+     336
+    ],
+    "end_point": [
+     658,
+     512
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7175,
+    "start_point": [
+     1554,
+     638
+    ],
+    "end_point": [
+     1717,
+     824
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.4931,
+    "start_point": [
+     1011,
+     310
+    ],
+    "end_point": [
+     1116,
+     486
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4737,
+    "start_point": [
+     391,
+     271
+    ],
+    "end_point": [
+     558,
+     363
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4642,
+    "start_point": [
+     1709,
+     808
+    ],
+    "end_point": [
+     1829,
+     971
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.3875,
+    "start_point": [
+     817,
+     204
+    ],
+    "end_point": [
+     915,
+     318
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3643,
+    "start_point": [
+     1211,
+     279
+    ],
+    "end_point": [
+     1331,
+     477
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3269,
+    "start_point": [
+     1395,
+     276
+    ],
+    "end_point": [
+     1521,
+     456
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.324,
+    "start_point": [
+     1258,
+     640
+    ],
+    "end_point": [
+     1463,
+     851
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3195,
+    "start_point": [
+     1742,
+     615
+    ],
+    "end_point": [
+     1845,
+     765
+    ]
+   },
+   {
+    "cls_item": 67,
+    "cls_name": "cell phone",
+    "proba": 0.3068,
+    "start_point": [
+     1119,
+     292
+    ],
+    "end_point": [
+     1221,
+     477
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3059,
+    "start_point": [
+     1310,
+     90
+    ],
+    "end_point": [
+     1461,
+     169
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2902,
+    "start_point": [
+     1315,
+     278
+    ],
+    "end_point": [
+     1425,
+     459
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2607,
+    "start_point": [
+     1090,
+     650
+    ],
+    "end_point": [
+     1300,
+     867
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4001.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9471,
+    "start_point": [
+     1300,
+     601
+    ],
+    "end_point": [
+     1741,
+     1073
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9412,
+    "start_point": [
+     932,
+     621
+    ],
+    "end_point": [
+     1364,
+     1073
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9158,
+    "start_point": [
+     522,
+     609
+    ],
+    "end_point": [
+     846,
+     1061
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9045,
+    "start_point": [
+     1043,
+     264
+    ],
+    "end_point": [
+     1403,
+     430
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9038,
+    "start_point": [
+     1527,
+     535
+    ],
+    "end_point": [
+     1899,
+     1031
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9003,
+    "start_point": [
+     153,
+     474
+    ],
+    "end_point": [
+     459,
+     649
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9001,
+    "start_point": [
+     252,
+     580
+    ],
+    "end_point": [
+     570,
+     947
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8035,
+    "start_point": [
+     1342,
+     211
+    ],
+    "end_point": [
+     1550,
+     353
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7892,
+    "start_point": [
+     864,
+     215
+    ],
+    "end_point": [
+     1069,
+     367
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7307,
+    "start_point": [
+     228,
+     396
+    ],
+    "end_point": [
+     504,
+     514
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7193,
+    "start_point": [
+     403,
+     272
+    ],
+    "end_point": [
+     642,
+     350
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7112,
+    "start_point": [
+     1184,
+     174
+    ],
+    "end_point": [
+     1385,
+     320
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7038,
+    "start_point": [
+     1821,
+     312
+    ],
+    "end_point": [
+     1919,
+     504
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6374,
+    "start_point": [
+     313,
+     331
+    ],
+    "end_point": [
+     560,
+     440
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4199,
+    "start_point": [
+     1779,
+     269
+    ],
+    "end_point": [
+     1882,
+     381
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.398,
+    "start_point": [
+     485,
+     233
+    ],
+    "end_point": [
+     648,
+     287
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3925,
+    "start_point": [
+     982,
+     161
+    ],
+    "end_point": [
+     1106,
+     242
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3276,
+    "start_point": [
+     1709,
+     188
+    ],
+    "end_point": [
+     1811,
+     281
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4101.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9142,
+    "start_point": [
+     1153,
+     904
+    ],
+    "end_point": [
+     1292,
+     1046
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8678,
+    "start_point": [
+     813,
+     862
+    ],
+    "end_point": [
+     973,
+     990
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8661,
+    "start_point": [
+     656,
+     739
+    ],
+    "end_point": [
+     801,
+     843
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8478,
+    "start_point": [
+     991,
+     629
+    ],
+    "end_point": [
+     1115,
+     736
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8467,
+    "start_point": [
+     673,
+     625
+    ],
+    "end_point": [
+     792,
+     700
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8102,
+    "start_point": [
+     1267,
+     687
+    ],
+    "end_point": [
+     1377,
+     808
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7859,
+    "start_point": [
+     1325,
+     981
+    ],
+    "end_point": [
+     1468,
+     1078
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7726,
+    "start_point": [
+     1452,
+     1025
+    ],
+    "end_point": [
+     1551,
+     1079
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7542,
+    "start_point": [
+     1311,
+     860
+    ],
+    "end_point": [
+     1466,
+     976
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7213,
+    "start_point": [
+     1077,
+     639
+    ],
+    "end_point": [
+     1210,
+     776
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6899,
+    "start_point": [
+     353,
+     557
+    ],
+    "end_point": [
+     440,
+     611
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6831,
+    "start_point": [
+     1359,
+     715
+    ],
+    "end_point": [
+     1445,
+     831
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.66,
+    "start_point": [
+     606,
+     699
+    ],
+    "end_point": [
+     772,
+     799
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6165,
+    "start_point": [
+     1175,
+     678
+    ],
+    "end_point": [
+     1286,
+     799
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5776,
+    "start_point": [
+     517,
+     611
+    ],
+    "end_point": [
+     640,
+     701
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5687,
+    "start_point": [
+     490,
+     604
+    ],
+    "end_point": [
+     600,
+     670
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4959,
+    "start_point": [
+     706,
+     764
+    ],
+    "end_point": [
+     851,
+     879
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4885,
+    "start_point": [
+     463,
+     574
+    ],
+    "end_point": [
+     532,
+     634
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4841,
+    "start_point": [
+     553,
+     653
+    ],
+    "end_point": [
+     680,
+     731
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4741,
+    "start_point": [
+     672,
+     521
+    ],
+    "end_point": [
+     771,
+     592
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4272,
+    "start_point": [
+     726,
+     793
+    ],
+    "end_point": [
+     916,
+     947
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3971,
+    "start_point": [
+     570,
+     663
+    ],
+    "end_point": [
+     712,
+     762
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.38,
+    "start_point": [
+     626,
+     502
+    ],
+    "end_point": [
+     721,
+     576
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3302,
+    "start_point": [
+     1557,
+     1050
+    ],
+    "end_point": [
+     1631,
+     1078
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2831,
+    "start_point": [
+     1534,
+     967
+    ],
+    "end_point": [
+     1666,
+     1049
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2667,
+    "start_point": [
+     264,
+     573
+    ],
+    "end_point": [
+     352,
+     629
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4201.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9162,
+    "start_point": [
+     0,
+     763
+    ],
+    "end_point": [
+     333,
+     1014
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9129,
+    "start_point": [
+     289,
+     500
+    ],
+    "end_point": [
+     664,
+     710
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8846,
+    "start_point": [
+     696,
+     413
+    ],
+    "end_point": [
+     1114,
+     571
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8778,
+    "start_point": [
+     128,
+     636
+    ],
+    "end_point": [
+     481,
+     850
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8769,
+    "start_point": [
+     506,
+     578
+    ],
+    "end_point": [
+     1056,
+     872
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8701,
+    "start_point": [
+     403,
+     403
+    ],
+    "end_point": [
+     715,
+     547
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.778,
+    "start_point": [
+     43,
+     490
+    ],
+    "end_point": [
+     162,
+     610
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7722,
+    "start_point": [
+     573,
+     360
+    ],
+    "end_point": [
+     791,
+     462
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7603,
+    "start_point": [
+     88,
+     437
+    ],
+    "end_point": [
+     258,
+     548
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7389,
+    "start_point": [
+     0,
+     541
+    ],
+    "end_point": [
+     72,
+     669
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6828,
+    "start_point": [
+     205,
+     396
+    ],
+    "end_point": [
+     348,
+     492
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6413,
+    "start_point": [
+     0,
+     919
+    ],
+    "end_point": [
+     157,
+     1076
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6188,
+    "start_point": [
+     281,
+     365
+    ],
+    "end_point": [
+     408,
+     445
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5284,
+    "start_point": [
+     341,
+     333
+    ],
+    "end_point": [
+     496,
+     409
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4559,
+    "start_point": [
+     709,
+     262
+    ],
+    "end_point": [
+     843,
+     344
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3578,
+    "start_point": [
+     427,
+     303
+    ],
+    "end_point": [
+     568,
+     375
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2643,
+    "start_point": [
+     739,
+     324
+    ],
+    "end_point": [
+     1032,
+     436
+    ]
+   },
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.2559,
+    "start_point": [
+     1067,
+     387
+    ],
+    "end_point": [
+     1115,
+     480
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4301.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9154,
+    "start_point": [
+     91,
+     465
+    ],
+    "end_point": [
+     547,
+     734
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9136,
+    "start_point": [
+     320,
+     614
+    ],
+    "end_point": [
+     782,
+     1071
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9087,
+    "start_point": [
+     208,
+     343
+    ],
+    "end_point": [
+     626,
+     551
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9002,
+    "start_point": [
+     1172,
+     363
+    ],
+    "end_point": [
+     1634,
+     604
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8977,
+    "start_point": [
+     337,
+     269
+    ],
+    "end_point": [
+     668,
+     416
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8856,
+    "start_point": [
+     1311,
+     548
+    ],
+    "end_point": [
+     1583,
+     971
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8781,
+    "start_point": [
+     956,
+     178
+    ],
+    "end_point": [
+     1129,
+     308
+    ]
+   },
+   {
+    "cls_item": 7,
+    "cls_name": "truck",
+    "proba": 0.8611,
+    "start_point": [
+     1116,
+     113
+    ],
+    "end_point": [
+     1329,
+     312
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7956,
+    "start_point": [
+     405,
+     198
+    ],
+    "end_point": [
+     674,
+     310
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7531,
+    "start_point": [
+     1246,
+     306
+    ],
+    "end_point": [
+     1598,
+     452
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6916,
+    "start_point": [
+     641,
+     119
+    ],
+    "end_point": [
+     865,
+     229
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5853,
+    "start_point": [
+     513,
+     146
+    ],
+    "end_point": [
+     755,
+     267
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5701,
+    "start_point": [
+     1309,
+     283
+    ],
+    "end_point": [
+     1591,
+     379
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5259,
+    "start_point": [
+     1349,
+     240
+    ],
+    "end_point": [
+     1600,
+     338
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4343,
+    "start_point": [
+     710,
+     109
+    ],
+    "end_point": [
+     905,
+     188
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4131,
+    "start_point": [
+     798,
+     91
+    ],
+    "end_point": [
+     982,
+     169
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3996,
+    "start_point": [
+     887,
+     84
+    ],
+    "end_point": [
+     1030,
+     151
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3829,
+    "start_point": [
+     1386,
+     219
+    ],
+    "end_point": [
+     1605,
+     315
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2737,
+    "start_point": [
+     1316,
+     245
+    ],
+    "end_point": [
+     1603,
+     367
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2587,
+    "start_point": [
+     1469,
+     173
+    ],
+    "end_point": [
+     1619,
+     240
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4401.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9088,
+    "start_point": [
+     460,
+     278
+    ],
+    "end_point": [
+     694,
+     517
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8594,
+    "start_point": [
+     1050,
+     321
+    ],
+    "end_point": [
+     1333,
+     419
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8568,
+    "start_point": [
+     1114,
+     458
+    ],
+    "end_point": [
+     1512,
+     661
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8392,
+    "start_point": [
+     1088,
+     359
+    ],
+    "end_point": [
+     1442,
+     500
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8314,
+    "start_point": [
+     802,
+     179
+    ],
+    "end_point": [
+     967,
+     265
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8185,
+    "start_point": [
+     415,
+     152
+    ],
+    "end_point": [
+     560,
+     284
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7381,
+    "start_point": [
+     995,
+     274
+    ],
+    "end_point": [
+     1227,
+     365
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7283,
+    "start_point": [
+     1167,
+     559
+    ],
+    "end_point": [
+     1502,
+     708
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6887,
+    "start_point": [
+     655,
+     142
+    ],
+    "end_point": [
+     824,
+     200
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6582,
+    "start_point": [
+     521,
+     206
+    ],
+    "end_point": [
+     663,
+     326
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5793,
+    "start_point": [
+     936,
+     220
+    ],
+    "end_point": [
+     1161,
+     313
+    ]
+   },
+   {
+    "cls_item": 11,
+    "cls_name": "stop sign",
+    "proba": 0.4288,
+    "start_point": [
+     307,
+     268
+    ],
+    "end_point": [
+     434,
+     423
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3686,
+    "start_point": [
+     721,
+     159
+    ],
+    "end_point": [
+     898,
+     231
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.358,
+    "start_point": [
+     475,
+     100
+    ],
+    "end_point": [
+     585,
+     158
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2806,
+    "start_point": [
+     544,
+     110
+    ],
+    "end_point": [
+     740,
+     172
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4601.jpg",
+  "boxes": [
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.6897,
+    "start_point": [
+     1310,
+     681
+    ],
+    "end_point": [
+     1533,
+     816
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5031,
+    "start_point": [
+     0,
+     734
+    ],
+    "end_point": [
+     46,
+     929
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4994,
+    "start_point": [
+     34,
+     628
+    ],
+    "end_point": [
+     206,
+     921
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.4895,
+    "start_point": [
+     1421,
+     565
+    ],
+    "end_point": [
+     1597,
+     705
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.4288,
+    "start_point": [
+     1565,
+     469
+    ],
+    "end_point": [
+     1686,
+     565
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.4282,
+    "start_point": [
+     1476,
+     500
+    ],
+    "end_point": [
+     1645,
+     602
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3786,
+    "start_point": [
+     1621,
+     387
+    ],
+    "end_point": [
+     1733,
+     509
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3176,
+    "start_point": [
+     1578,
+     415
+    ],
+    "end_point": [
+     1704,
+     511
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3077,
+    "start_point": [
+     1303,
+     881
+    ],
+    "end_point": [
+     1393,
+     997
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2924,
+    "start_point": [
+     1574,
+     416
+    ],
+    "end_point": [
+     1702,
+     562
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2911,
+    "start_point": [
+     1644,
+     354
+    ],
+    "end_point": [
+     1737,
+     445
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2779,
+    "start_point": [
+     1699,
+     294
+    ],
+    "end_point": [
+     1791,
+     402
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2647,
+    "start_point": [
+     1529,
+     501
+    ],
+    "end_point": [
+     1645,
+     600
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2643,
+    "start_point": [
+     1686,
+     334
+    ],
+    "end_point": [
+     1763,
+     432
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2609,
+    "start_point": [
+     1840,
+     378
+    ],
+    "end_point": [
+     1894,
+     490
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2603,
+    "start_point": [
+     851,
+     943
+    ],
+    "end_point": [
+     1103,
+     1078
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4701.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9111,
+    "start_point": [
+     69,
+     682
+    ],
+    "end_point": [
+     329,
+     901
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9072,
+    "start_point": [
+     257,
+     693
+    ],
+    "end_point": [
+     784,
+     965
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9029,
+    "start_point": [
+     406,
+     424
+    ],
+    "end_point": [
+     803,
+     638
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8592,
+    "start_point": [
+     117,
+     570
+    ],
+    "end_point": [
+     400,
+     737
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.838,
+    "start_point": [
+     0,
+     597
+    ],
+    "end_point": [
+     156,
+     782
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8241,
+    "start_point": [
+     240,
+     470
+    ],
+    "end_point": [
+     400,
+     586
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7918,
+    "start_point": [
+     238,
+     360
+    ],
+    "end_point": [
+     406,
+     468
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7706,
+    "start_point": [
+     577,
+     250
+    ],
+    "end_point": [
+     737,
+     338
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7068,
+    "start_point": [
+     0,
+     878
+    ],
+    "end_point": [
+     255,
+     1075
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7002,
+    "start_point": [
+     410,
+     322
+    ],
+    "end_point": [
+     692,
+     468
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6737,
+    "start_point": [
+     401,
+     274
+    ],
+    "end_point": [
+     539,
+     363
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6595,
+    "start_point": [
+     405,
+     391
+    ],
+    "end_point": [
+     729,
+     532
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6455,
+    "start_point": [
+     38,
+     496
+    ],
+    "end_point": [
+     172,
+     597
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6331,
+    "start_point": [
+     106,
+     440
+    ],
+    "end_point": [
+     256,
+     537
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5561,
+    "start_point": [
+     116,
+     946
+    ],
+    "end_point": [
+     517,
+     1078
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5198,
+    "start_point": [
+     695,
+     194
+    ],
+    "end_point": [
+     836,
+     246
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.43,
+    "start_point": [
+     485,
+     231
+    ],
+    "end_point": [
+     580,
+     288
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3656,
+    "start_point": [
+     114,
+     934
+    ],
+    "end_point": [
+     707,
+     1077
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3011,
+    "start_point": [
+     478,
+     322
+    ],
+    "end_point": [
+     691,
+     411
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_4801.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9271,
+    "start_point": [
+     686,
+     563
+    ],
+    "end_point": [
+     1008,
+     1075
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9071,
+    "start_point": [
+     1081,
+     457
+    ],
+    "end_point": [
+     1408,
+     617
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8979,
+    "start_point": [
+     1019,
+     673
+    ],
+    "end_point": [
+     1404,
+     1073
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8975,
+    "start_point": [
+     1316,
+     634
+    ],
+    "end_point": [
+     1664,
+     1074
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8761,
+    "start_point": [
+     1051,
+     390
+    ],
+    "end_point": [
+     1352,
+     499
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8721,
+    "start_point": [
+     6,
+     627
+    ],
+    "end_point": [
+     336,
+     834
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8689,
+    "start_point": [
+     78,
+     506
+    ],
+    "end_point": [
+     384,
+     683
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8442,
+    "start_point": [
+     462,
+     301
+    ],
+    "end_point": [
+     612,
+     477
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8253,
+    "start_point": [
+     1407,
+     464
+    ],
+    "end_point": [
+     1708,
+     648
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8199,
+    "start_point": [
+     623,
+     238
+    ],
+    "end_point": [
+     774,
+     320
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7594,
+    "start_point": [
+     975,
+     322
+    ],
+    "end_point": [
+     1271,
+     437
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7488,
+    "start_point": [
+     1578,
+     724
+    ],
+    "end_point": [
+     1816,
+     1023
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.685,
+    "start_point": [
+     0,
+     759
+    ],
+    "end_point": [
+     268,
+     1030
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6232,
+    "start_point": [
+     1828,
+     536
+    ],
+    "end_point": [
+     1919,
+     641
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5215,
+    "start_point": [
+     139,
+     440
+    ],
+    "end_point": [
+     415,
+     553
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5063,
+    "start_point": [
+     1371,
+     406
+    ],
+    "end_point": [
+     1627,
+     524
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.504,
+    "start_point": [
+     1631,
+     355
+    ],
+    "end_point": [
+     1735,
+     425
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4526,
+    "start_point": [
+     609,
+     192
+    ],
+    "end_point": [
+     797,
+     273
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4408,
+    "start_point": [
+     352,
+     286
+    ],
+    "end_point": [
+     466,
+     414
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4153,
+    "start_point": [
+     224,
+     332
+    ],
+    "end_point": [
+     413,
+     459
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3595,
+    "start_point": [
+     1272,
+     317
+    ],
+    "end_point": [
+     1493,
+     448
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3352,
+    "start_point": [
+     964,
+     296
+    ],
+    "end_point": [
+     1175,
+     389
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3146,
+    "start_point": [
+     1555,
+     325
+    ],
+    "end_point": [
+     1666,
+     393
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2813,
+    "start_point": [
+     1449,
+     251
+    ],
+    "end_point": [
+     1553,
+     320
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2546,
+    "start_point": [
+     1663,
+     402
+    ],
+    "end_point": [
+     1746,
+     467
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_5601.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9331,
+    "start_point": [
+     1462,
+     311
+    ],
+    "end_point": [
+     1779,
+     721
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9253,
+    "start_point": [
+     1233,
+     404
+    ],
+    "end_point": [
+     1556,
+     789
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9185,
+    "start_point": [
+     949,
+     415
+    ],
+    "end_point": [
+     1240,
+     838
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.913,
+    "start_point": [
+     424,
+     499
+    ],
+    "end_point": [
+     711,
+     869
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9095,
+    "start_point": [
+     845,
+     118
+    ],
+    "end_point": [
+     1014,
+     325
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9063,
+    "start_point": [
+     688,
+     498
+    ],
+    "end_point": [
+     933,
+     847
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9038,
+    "start_point": [
+     1050,
+     112
+    ],
+    "end_point": [
+     1228,
+     307
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.903,
+    "start_point": [
+     1247,
+     142
+    ],
+    "end_point": [
+     1578,
+     286
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8954,
+    "start_point": [
+     1670,
+     359
+    ],
+    "end_point": [
+     1918,
+     636
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8836,
+    "start_point": [
+     362,
+     242
+    ],
+    "end_point": [
+     532,
+     428
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8464,
+    "start_point": [
+     960,
+     41
+    ],
+    "end_point": [
+     1206,
+     129
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8211,
+    "start_point": [
+     225,
+     537
+    ],
+    "end_point": [
+     509,
+     881
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8049,
+    "start_point": [
+     731,
+     53
+    ],
+    "end_point": [
+     909,
+     140
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7466,
+    "start_point": [
+     1254,
+     48
+    ],
+    "end_point": [
+     1485,
+     158
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6761,
+    "start_point": [
+     1542,
+     96
+    ],
+    "end_point": [
+     1790,
+     208
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6157,
+    "start_point": [
+     92,
+     565
+    ],
+    "end_point": [
+     326,
+     867
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5662,
+    "start_point": [
+     42,
+     608
+    ],
+    "end_point": [
+     201,
+     850
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5586,
+    "start_point": [
+     670,
+     154
+    ],
+    "end_point": [
+     836,
+     350
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5523,
+    "start_point": [
+     497,
+     250
+    ],
+    "end_point": [
+     661,
+     429
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5413,
+    "start_point": [
+     0,
+     593
+    ],
+    "end_point": [
+     118,
+     831
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5112,
+    "start_point": [
+     1841,
+     350
+    ],
+    "end_point": [
+     1919,
+     502
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4817,
+    "start_point": [
+     1788,
+     158
+    ],
+    "end_point": [
+     1919,
+     283
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4575,
+    "start_point": [
+     230,
+     255
+    ],
+    "end_point": [
+     331,
+     346
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3917,
+    "start_point": [
+     543,
+     73
+    ],
+    "end_point": [
+     694,
+     153
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3661,
+    "start_point": [
+     184,
+     223
+    ],
+    "end_point": [
+     290,
+     306
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3656,
+    "start_point": [
+     254,
+     282
+    ],
+    "end_point": [
+     407,
+     445
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3429,
+    "start_point": [
+     46,
+     389
+    ],
+    "end_point": [
+     145,
+     523
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3325,
+    "start_point": [
+     1840,
+     349
+    ],
+    "end_point": [
+     1919,
+     583
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2632,
+    "start_point": [
+     496,
+     153
+    ],
+    "end_point": [
+     597,
+     269
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_5701.jpg",
+  "boxes": [
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.8129,
+    "start_point": [
+     1309,
+     459
+    ],
+    "end_point": [
+     1350,
+     579
+    ]
+   },
+   {
+    "cls_item": 0,
+    "cls_name": "person",
+    "proba": 0.7569,
+    "start_point": [
+     1477,
+     479
+    ],
+    "end_point": [
+     1524,
+     595
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6686,
+    "start_point": [
+     1148,
+     418
+    ],
+    "end_point": [
+     1202,
+     493
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.6255,
+    "start_point": [
+     908,
+     816
+    ],
+    "end_point": [
+     1141,
+     966
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5527,
+    "start_point": [
+     254,
+     1009
+    ],
+    "end_point": [
+     583,
+     1078
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.5011,
+    "start_point": [
+     995,
+     709
+    ],
+    "end_point": [
+     1197,
+     877
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.4615,
+    "start_point": [
+     1138,
+     563
+    ],
+    "end_point": [
+     1248,
+     648
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4573,
+    "start_point": [
+     1373,
+     448
+    ],
+    "end_point": [
+     1457,
+     565
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.4127,
+    "start_point": [
+     1122,
+     592
+    ],
+    "end_point": [
+     1211,
+     682
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3963,
+    "start_point": [
+     858,
+     863
+    ],
+    "end_point": [
+     1065,
+     1042
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3955,
+    "start_point": [
+     1051,
+     629
+    ],
+    "end_point": [
+     1204,
+     760
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3285,
+    "start_point": [
+     1096,
+     597
+    ],
+    "end_point": [
+     1200,
+     685
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3244,
+    "start_point": [
+     987,
+     753
+    ],
+    "end_point": [
+     1191,
+     877
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3222,
+    "start_point": [
+     1166,
+     580
+    ],
+    "end_point": [
+     1248,
+     648
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3154,
+    "start_point": [
+     998,
+     695
+    ],
+    "end_point": [
+     1214,
+     831
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3143,
+    "start_point": [
+     1055,
+     627
+    ],
+    "end_point": [
+     1195,
+     723
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.3127,
+    "start_point": [
+     960,
+     773
+    ],
+    "end_point": [
+     1124,
+     873
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2992,
+    "start_point": [
+     921,
+     796
+    ],
+    "end_point": [
+     1141,
+     940
+    ]
+   },
+   {
+    "cls_item": 1,
+    "cls_name": "bicycle",
+    "proba": 0.2769,
+    "start_point": [
+     1136,
+     589
+    ],
+    "end_point": [
+     1227,
+     676
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_701.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9421,
+    "start_point": [
+     202,
+     674
+    ],
+    "end_point": [
+     759,
+     1014
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9219,
+    "start_point": [
+     996,
+     622
+    ],
+    "end_point": [
+     1340,
+     930
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9199,
+    "start_point": [
+     652,
+     446
+    ],
+    "end_point": [
+     987,
+     636
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.904,
+    "start_point": [
+     952,
+     405
+    ],
+    "end_point": [
+     1142,
+     562
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8956,
+    "start_point": [
+     1221,
+     517
+    ],
+    "end_point": [
+     1392,
+     663
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7996,
+    "start_point": [
+     1302,
+     432
+    ],
+    "end_point": [
+     1415,
+     562
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7848,
+    "start_point": [
+     765,
+     973
+    ],
+    "end_point": [
+     1117,
+     1078
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.779,
+    "start_point": [
+     269,
+     938
+    ],
+    "end_point": [
+     651,
+     1077
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6035,
+    "start_point": [
+     1275,
+     312
+    ],
+    "end_point": [
+     1350,
+     354
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5126,
+    "start_point": [
+     1343,
+     361
+    ],
+    "end_point": [
+     1448,
+     459
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4525,
+    "start_point": [
+     1080,
+     329
+    ],
+    "end_point": [
+     1255,
+     479
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3256,
+    "start_point": [
+     1393,
+     316
+    ],
+    "end_point": [
+     1463,
+     360
+    ]
+   }
+  ]
+ },
+ {
+  "filename": "img\\snap_901.jpg",
+  "boxes": [
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9025,
+    "start_point": [
+     1090,
+     550
+    ],
+    "end_point": [
+     1326,
+     834
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.9007,
+    "start_point": [
+     1346,
+     508
+    ],
+    "end_point": [
+     1644,
+     739
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.895,
+    "start_point": [
+     1230,
+     362
+    ],
+    "end_point": [
+     1493,
+     511
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.886,
+    "start_point": [
+     1488,
+     351
+    ],
+    "end_point": [
+     1660,
+     463
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8814,
+    "start_point": [
+     554,
+     287
+    ],
+    "end_point": [
+     805,
+     499
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8516,
+    "start_point": [
+     1057,
+     297
+    ],
+    "end_point": [
+     1235,
+     427
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.8237,
+    "start_point": [
+     223,
+     599
+    ],
+    "end_point": [
+     521,
+     978
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7958,
+    "start_point": [
+     846,
+     188
+    ],
+    "end_point": [
+     978,
+     285
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7742,
+    "start_point": [
+     750,
+     247
+    ],
+    "end_point": [
+     913,
+     361
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.7517,
+    "start_point": [
+     1501,
+     513
+    ],
+    "end_point": [
+     1739,
+     715
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6559,
+    "start_point": [
+     1635,
+     364
+    ],
+    "end_point": [
+     1774,
+     448
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.6027,
+    "start_point": [
+     1605,
+     510
+    ],
+    "end_point": [
+     1809,
+     648
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5798,
+    "start_point": [
+     1776,
+     363
+    ],
+    "end_point": [
+     1855,
+     428
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5408,
+    "start_point": [
+     1840,
+     408
+    ],
+    "end_point": [
+     1904,
+     473
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.5213,
+    "start_point": [
+     1625,
+     321
+    ],
+    "end_point": [
+     1723,
+     384
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.506,
+    "start_point": [
+     936,
+     163
+    ],
+    "end_point": [
+     1025,
+     230
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4976,
+    "start_point": [
+     1164,
+     230
+    ],
+    "end_point": [
+     1360,
+     301
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.4411,
+    "start_point": [
+     975,
+     122
+    ],
+    "end_point": [
+     1060,
+     181
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.353,
+    "start_point": [
+     1034,
+     105
+    ],
+    "end_point": [
+     1102,
+     147
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.3226,
+    "start_point": [
+     1074,
+     84
+    ],
+    "end_point": [
+     1125,
+     126
+    ]
+   },
+   {
+    "cls_item": 2,
+    "cls_name": "car",
+    "proba": 0.2509,
+    "start_point": [
+     1698,
+     313
+    ],
+    "end_point": [
+     1773,
+     365
+    ]
+   }
+  ]
+ }
+]
